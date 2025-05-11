@@ -1,6 +1,8 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+# git add r"D:\ML DL\Open CV projects\OpenCV-Projects-cpp-python-master\Detect-YOLO-Segment-SAM\input_image\ball.jpg* output_images/*" 
+# git add r"D:\ML DL\Open CV projects\OpenCV-Projects-cpp-python-master\Detect-YOLO-Segment-SAM\output_image\highlighted_output.png*"git add r"D:\ML DL\Open CV projects\OpenCV-Projects-cpp-python-master\Detect-YOLO-Segment-SAM\output_image\highlighted_output.png*"
 *.md filter=lfs diff=lfs merge=lfs -text
 *.yml filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
