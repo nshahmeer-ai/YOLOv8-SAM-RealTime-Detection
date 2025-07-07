@@ -60,7 +60,7 @@ Open to:
   
 
 About the Author
-Hafiz Shahmeer Nawaz
+Shahmeer Nawaz
 Master's Student in Artificial Intelligence
 
 Email: shahmeernawazai@gmail.com
